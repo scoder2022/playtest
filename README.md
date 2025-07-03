@@ -17,7 +17,7 @@ project to simulate matches between 4 teams. Each team has 1–4 players, and ea
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/team-winning-simulator.git
+git clone https://github.com/yourusername/playtest.git
 cd team-winning-simulator
 composer install
 cp .env.example .env
