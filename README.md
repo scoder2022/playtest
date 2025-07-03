@@ -18,7 +18,7 @@ project to simulate matches between 4 teams. Each team has 1–4 players, and ea
 
 ```bash
 git clone https://github.com/yourusername/playtest.git
-cd team-winning-simulator
+cd playtest
 composer install
 cp .env.example .env
 php artisan key:generate
