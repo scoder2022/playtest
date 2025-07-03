@@ -16,8 +16,6 @@ project to simulate matches between 4 teams. Each team has 1–4 players, and ea
 
 ## 📦 Installation
 
-1. **Clone the repo**
-
 ```bash
 git clone https://github.com/yourusername/team-winning-simulator.git
 cd team-winning-simulator
