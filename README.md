@@ -21,8 +21,6 @@ project to simulate matches between 4 teams. Each team has 1–4 players, and ea
 ```bash
 git clone https://github.com/yourusername/team-winning-simulator.git
 cd team-winning-simulator
-```
-
 composer install
 cp .env.example .env
 php artisan key:generate
@@ -30,3 +28,4 @@ php artisan migrate --seed
 npm install
 npm run dev
 php artisan serve
+```
